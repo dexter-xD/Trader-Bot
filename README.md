@@ -24,10 +24,6 @@ If you're getting an SSL error when you attempt to call out to the Alpaca Tradin
 2. Once downloaded, change the file extension of each file to `.cer`
 3. Double click the file and run through the wizard to install it, use all of the default selections.
 
-</br>
-# Other References 🔗
-
-<p>-<a href="github.com/Lumiwealth/lumibot)">Lumibot</a>:trading bot library, makes lifecycle stuff easier .</p>
 
 # Who, When, Why?
 
